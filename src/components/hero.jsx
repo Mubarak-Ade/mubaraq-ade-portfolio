@@ -1,6 +1,6 @@
 import React, {useState, useEffect, useRef} from 'react'
 import profile from '../assets/profile.jpg'
-import arrowLeft from '../assets/solid/arrow-left.svg'
+// import arrowLeft from '../assets/solid/arrow-left.svg'
 
 function Hero() {
 	// const [index, setIndex] = useState(0);
