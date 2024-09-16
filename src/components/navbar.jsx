@@ -15,7 +15,7 @@ function Navbar() {
         <Link smooth={true} duration={500} className='cursor-pointer' to='hero'>Home</Link>
         <Link smooth={true} duration={500} className='cursor-pointer' to='about'>About</Link>
         <Link smooth={true} duration={500} className='cursor-pointer' to='project'>Project</Link>
-        <Link smooth={true} duration={500} className='cursor-pointer'>Contacts</Link>
+        <Link smooth={true} duration={500} className='cursor-pointer' to='footer'>Contacts</Link>
       </ul>
     </div>
   )
